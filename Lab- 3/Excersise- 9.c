@@ -1,3 +1,7 @@
+/*Write a program that reads a point
+(x, y) from user and prints its region
+*/
+
 #include <stdio.h>
 int main()
 {
