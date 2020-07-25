@@ -1,3 +1,6 @@
+/* In this exercise you need to write a program that will take an integer input
+representing year and print whether this is a leap year or not leap year.
+*/ 
 #include <stdio.h>
 
 int main(){
