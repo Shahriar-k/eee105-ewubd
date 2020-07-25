@@ -1,3 +1,9 @@
+/* Suppose we have two tasks A and B, A takes Ah hours, Am minutes, and As
+seconds. On the other hand B takes Bh hours, Bm minutes, and Bs seconds. Write if-else
+statements to print out which task takes more time?
+*/
+
+
 #include <stdio.h>
 int main(){
 
