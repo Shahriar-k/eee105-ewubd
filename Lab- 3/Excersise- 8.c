@@ -1,3 +1,7 @@
+/* Write a program that reads 3 integer numbers a, b and c from user and computes
+minimum, median and maximum of the numbers. 
+*/
+
 #include <stdio.h>
 int main()
 {
