@@ -1,5 +1,5 @@
 # EEE105: Computer Programing
-Department Of Electrical & Electronic Engineering || East Wast University
+Department Of Electrical & Electronic Engineering || East West University
 
 This is unofficial repository for EEE105 Lab work.
 
